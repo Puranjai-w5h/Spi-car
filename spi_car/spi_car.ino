@@ -2,10 +2,10 @@
 #include <WebServer.h>
 
 // ====== Motor Pins ======
-#define IN1 9
-#define IN2 8
-#define IN3 7
-#define IN4 6
+#define IN1 10
+#define IN2 9
+#define IN3 8
+#define IN4 7
 #define PWM_LEFT 5
 #define PWM_RIGHT 4
 
